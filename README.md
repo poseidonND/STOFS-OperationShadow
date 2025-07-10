@@ -8,7 +8,7 @@ The STOFS-2D Global Model (Surge and Tide Operational Forecast System – 2D) is
 🔧 Forcing Inputs
 Baroclinic Forcing: From NOAA's Global Real-Time Ocean Forecast System (RTOFS)
 
-Applied to drive density-driven circulation in 2D mode with Baroclinic Pressure Gradients computed with RTOFS depth averaged temperature and salinity fields. 
+Applied to drive density-driven circulation in 2D mode with Baroclinic Pressure Gradients computed from RTOFS depth averaged temperature and salinity fields. 
 
 Atmospheric Forcing: From GFS 13 km resolution (Global Forecast System)
 
