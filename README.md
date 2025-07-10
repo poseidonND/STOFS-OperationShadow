@@ -1,5 +1,5 @@
 # STOFS-OperationShadow
-STOFS-2D Global Model (University of Notre Dame)
+STOFS-2D Global Model (University of Notre Dame) -- https://chl.crc.nd.edu/
 This repository contains the configuration used for the STOFS-2D Global Model operated at the University of Notre Dame. The model is a depth-averaged, hydrodynamic model that simulates global water levels, tides, and storm surge with high-resolution capabilities, especially focused around U.S. coastlines.
 
 🌐 Model Overview:
