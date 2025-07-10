@@ -2,7 +2,7 @@
 STOFS-2D Global Model (University of Notre Dame)
 This repository contains the configuration used for the STOFS-2D Global Model operated at the University of Notre Dame. The model is a depth-averaged, hydrodynamic model that simulates global water levels, tides, and storm surge with high-resolution capabilities, especially focused around U.S. coastlines.
 
-🌐 Model Overview
+🌐 Model Overview:
 The STOFS-2D Global Model (Surge and Tide Operational Forecast System – 2D) is designed for high-fidelity simulation of water levels across the globe. It incorporates barotropic and baroclinic physics and is capable of resolving storm surge, tides, and large-scale baroclinic effects from ocean stratification.
 
 🔧 Forcing Inputs
@@ -18,7 +18,7 @@ Atmospheric pressure (sea level)
 
 Sea ice coverage and fraction
 
-🗺️ Grid and Resolution
+🗺️ Grid and Resolution:
 Unstructured finite element mesh optimized for scalability and nearshore accuracy
 
 Resolution:
@@ -31,5 +31,5 @@ Resolution:
 
 The mesh is designed to efficiently resolve storm surge and coastal processes in high-risk areas while maintaining computational tractability globally.
 
-🏛️ Operated By
+🏛️ Operated By:
 This version of the STOFS-2D Global Model is maintained and operated by the University of Notre Dame in collaboration with NOAA and other stakeholders to improve operational forecasting and coastal risk assessment.
